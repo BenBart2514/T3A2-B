@@ -56,6 +56,9 @@ We have selected the Kandban planning methodology to adhere to for the duration 
 ![Screenshot_2](docs/ts2.PNG)
 ### 31/01:
 ![Screenshot_3](docs/ts3.PNG)
+### 04/02:
+![Screenshot_4](docs/ts4.PNG)
+
 
 ## R5 - Wireframes
 ![Wireframes](docs/wireframes.PNG)
