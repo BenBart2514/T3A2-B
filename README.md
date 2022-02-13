@@ -1,5 +1,14 @@
 # Ben Bartholomew T3A2-A
 
+## Deployed Website
+https://620739aa3875324c04f74de4--focused-aryabhata-043eac.netlify.app/
+
+## GitHub Repository
+https://github.com/react-group-assignment
+
+## Testing Spreadsheet
+https://docs.google.com/spreadsheets/d/e/2PACX-1vTKyRTsOTKO0YqEBOKCeypMX1cEQwj9_FnxmHtjU3_fXX-YLQrU8mYk6MMllaVEulZdcxW6jJbbj3Uz/pubhtml?gid=0&single=true
+
 ## R1 - Website Description
 Our application is for a Gyeme Fitness Clubs, which is a meme-themed gym, currently with three locations, and will facilitate trainers working at the gym to create and manage classes, and current members to get in touch with trainers, and to sign up for existing classes.
 
@@ -58,6 +67,10 @@ We have selected the Kandban planning methodology to adhere to for the duration 
 ![Screenshot_3](docs/ts3.PNG)
 ### 04/02:
 ![Screenshot_4](docs/ts4.PNG)
+### 07/02:
+![Screenshot_5](docs/ts5.PNG)
+### 13/02:
+![Screenshot_6](docs/ts6.PNG)
 
 
 ## R5 - Wireframes
